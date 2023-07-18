@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "roybaru",
+      "email": "roy21@gmail.com",
+      "password": "21"
+    },
+    {
+      "id": "3",
+      "name": "FadillaBaru",
+      "email": "fadilla@gmail.com",
+      "password": "20"
+    },
+    {
+      "id": "5",
+      "name": "cobauu",
+      "email": "coba@mail",
+      "password": "22"
+    },
+    {
+      "id": "03zTzih",
+      "name": "byhj",
+      "email": " jh",
+      "password": "nujkn"
+    },
+    {
+      "name": "fadilla",
+      "email": "fadilla@mail",
+      "password": "fadilla",
+      "id": "9ncND1v"
+    },
+    {
+      "name": "dilla",
+      "email": "dilla@mail",
+      "password": "dilla",
+      "id": "iCet_P3"
+    }
+  ],
+  "task": [
+    {
+      "id": "1",
+      "title": "task coba-neww",
+      "description": "Deskripsi 1 baru-newww"
+    },
+    {
+      "id": "Xgf13VB",
+      "title": "ini judul",
+      "description": "deskripsi"
+    },
+    {
+      "id": "3tJiNCS",
+      "title": "judul baru lagiii",
+      "description": "ini coba lagi newww"
+    },
+    {
+      "id": "Z7h8pYJ",
+      "title": "oh edit",
+      "description": "ini baru lagi lohhh -2"
+    },
+    {
+      "id": "zwv56aN",
+      "title": "newtit",
+      "description": "newdesc"
+    },
+    {
+      "id": "7BtkTF6",
+      "title": "ppp",
+      "description": "iii"
+    },
+    {
+      "id": "xczTt2B",
+      "title": "newtask",
+      "description": "newdesc"
+    },
+    {
+      "id": "T0NlHpk",
+      "title": "newtaskkk",
+      "description": "newdesccc"
+    },
+    {
+      "id": "9MhVm3R",
+      "title": "judulbaru",
+      "description": "tugasbaru"
+    }
+  ]
+}
